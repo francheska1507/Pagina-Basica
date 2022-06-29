@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    
+}
+html{
+    background-image: url(/images/fondo.webp);
+}
+
+h1{
+    font-size: 50px;
+}
+p{
+    color: rebeccapurple;
+    font-size: 50px;
+    
+}
+
+.morado{
+    color: slateblue;
+    background-color: lightpink;
+    text-align: center;
+    border: 2px transparent solid;
+    border-radius: 10px;
+}
+.azul{
+    color: blue ;
+    background-color: lightskyblue;
+    text-align: center;
+    border: 2px transparent solid;
+    border-radius: 10px;
+}
+.brown{
+    color: brown;
+    background-color: rosybrown;
+    width: 100%;
+    font-size:60px;
+    text-align: center;
+    border: 2px transparent solid;
+    border-radius: 10px;
+}
+.verde{
+    color: green;
+    background-color: mediumseagreen;
+    width: 100%;
+    font-size:47px;
+    text-align: center;
+    border: 2px transparent solid;
+    border-radius: 10px;
+}
